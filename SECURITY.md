@@ -6,11 +6,11 @@ The following document will redact the definition of vulnerability, how to prope
 
 A vulnerability, also known as exploit, can be defined as a bug in the software that allows users to cause unwanted behavior with it. Depending on the degree of access it gives, a vulnerability can risk the integrity of both the client and server, along with the sensible information they both contain.
 
-It's good to note crashing the server is not considered a vulnerability by itself so, as long as it's directly related to this addon's actions, it can be [reported as a bug](CONTRIBUTING.md).
+It's good to note crashing the server is not considered a vulnerability by itself so, as long as it's directly related to this addon's actions, it can be reported as a bug.
 
 ## How to report a vulnerability?
 
-Due to the risk it poses, a vulnerability should be reported directly to the developer team. We highly suggest you to contact any of the developer team members directly via private messages. You can find them on the [Discord server](https://discordapp.com/invite/jgdzysxjST).
+Due to the risk it poses, a vulnerability should be reported directly to the developer team. We highly suggest you to contact any of the developer team members directly via private messages. You can find them on the discord.
 
 ## What happens after reporting a vulnerability?
 
